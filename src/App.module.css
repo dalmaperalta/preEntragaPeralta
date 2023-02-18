@@ -1,0 +1,9 @@
+.titulo{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+    font-size: 60px;
+    color: cornflowerblue ;
+    font-family: fantasy;
+}

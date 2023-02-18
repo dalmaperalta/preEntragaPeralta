@@ -1,0 +1,19 @@
+.container{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content:space-between;
+}
+.logo{
+    margin: 30px;
+    display: flex;
+    justify-content:flex-start;
+    color: antiquewhite;
+}
+
+.lis{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 20px;
+    padding-inline-end: 40px;
+}
+
